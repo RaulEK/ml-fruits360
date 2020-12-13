@@ -1,0 +1,19 @@
+{
+  "name": "synthetic-fruit-dataset",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@roboflow/floodfill": "^2.1.4",
+    "async": "^3.2.0",
+    "canvas": "^2.6.1",
+    "handlebars": "^4.7.6",
+    "lodash": "^4.17.20"
+  }
+}
