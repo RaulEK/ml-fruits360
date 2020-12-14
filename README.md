@@ -24,21 +24,21 @@ exported with desired formats. Used tutorial: https://blog.roboflow.com/how-to-c
 There are three models using this data: EfficientDet_v2, Yolo_v4 and Retinanet. The first model gave the best accuracy with 65% correctly predicted. In that notebook there are also some examples of how the model performed with the pictures we made.
 
 ### Used sources:
-https://towardsdatascience.com/state-of-the-art-image-classification-algorithm-fixefficientnet-l2-98b93deeb04c
-https://keras.io/examples/vision/image_classification_efficientnet_fine_tuning/
-https://keras.io/api/applications/efficientnet/#efficientnetb7-function
-https://keras.io/api/preprocessing/image/
-https://github.com/facebookresearch/FixRes
-https://towardsdatascience.com/decoding-state-of-the-art-object-detection-99f79d97b75d 
-https://github.com/signatrix/efficientdet 
-https://github.com/Tessellate-Imaging/Monk_Object_Detection/tree/master/4_efficientdet 
-https://github.com/xuannianz/EfficientDet/blob/master/README_quad.md 
-https://github.com/ravi02512/efficientdet-keras 
-https://neurohive.io/en/news/yolo-v4-is-the-new-state-of-the-art-object-detector/ 
-https://pypi.org/project/yolov4/ 
-https://github.com/taipingeric/yolo-v4-tf.keras
-https://github.com/Ma-Dan/keras-yolo4 
-https://keras.io/examples/vision/retinanet/
-https://blog.roboflow.com/training-efficientdet-object-detection-model-with-a-custom-dataset/
+https://towardsdatascience.com/state-of-the-art-image-classification-algorithm-fixefficientnet-l2-98b93deeb04c  
+https://keras.io/examples/vision/image_classification_efficientnet_fine_tuning/  
+https://keras.io/api/applications/efficientnet/#efficientnetb7-function  
+https://keras.io/api/preprocessing/image/  
+https://github.com/facebookresearch/FixRes  
+https://towardsdatascience.com/decoding-state-of-the-art-object-detection-99f79d97b75d   
+https://github.com/signatrix/efficientdet   
+https://github.com/Tessellate-Imaging/Monk_Object_Detection/tree/master/4_efficientdet   
+https://github.com/xuannianz/EfficientDet/blob/master/README_quad.md   
+https://github.com/ravi02512/efficientdet-keras   
+https://neurohive.io/en/news/yolo-v4-is-the-new-state-of-the-art-object-detector/   
+https://pypi.org/project/yolov4/   
+https://github.com/taipingeric/yolo-v4-tf.keras  
+https://github.com/Ma-Dan/keras-yolo4   
+https://keras.io/examples/vision/retinanet/  
+https://blog.roboflow.com/training-efficientdet-object-detection-model-with-a-custom-dataset/  
 
 
